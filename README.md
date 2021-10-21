@@ -1,4 +1,4 @@
-# advance-bidding-system
+# auction-system
 
   1. cd client
   2. npm install
